@@ -1,4 +1,6 @@
-# Implementación de la API y conexion a la APP de GoogleMaps para obtener la ruta
+
+# DESCRIPCION
+Desarrollo de una app con el framework de Ionic5 y lenguaje de programacion angular. El video explica usar la API de GoogleMaps y tambien como conectarse a la aplicacion de GoogleMaps para trazar nuestra ruta.
 
 ## API Google Maps Seleccion de un Marcador
 ![WhatsApp Image 2020-06-06 at 13 51 48](https://user-images.githubusercontent.com/55968997/83952284-6584fc00-a7fd-11ea-817a-f43349fff2e0.jpeg)
